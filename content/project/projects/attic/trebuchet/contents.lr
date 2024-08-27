@@ -1,0 +1,5 @@
+_model: redirect
+---
+new_path: content/project/attic/trebuchet/contents.lr
+---
+_discoverable: no

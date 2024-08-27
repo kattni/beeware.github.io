@@ -1,0 +1,5 @@
+_model: redirect
+---
+new_path: content/project/attic/cassowary/contents.lr
+---
+_discoverable: no

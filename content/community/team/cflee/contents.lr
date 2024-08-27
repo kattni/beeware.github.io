@@ -1,0 +1,5 @@
+_model: redirect
+---
+new_path: content/about/team/cflee/contents.lr
+---
+_discoverable: no
