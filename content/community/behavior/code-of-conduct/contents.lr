@@ -4,6 +4,7 @@ title: Code of Conduct
 ---
 body:
 
+<!-- -8<- [start:coc] -->
 As contributors and maintainers of this project, and in the interest of
 fostering an open and welcoming community, we pledge to respect all
 people who contribute through reporting issues, posting feature
@@ -43,6 +44,7 @@ spaces when an individual is representing the project or its community.
 If you feel the code of conduct has been violated, please [report the
 incident](/community/behavior/making-a-coc-report/) to the BeeWare core
 team.
+<!-- -8<- [end:coc] -->
 
 ---
 summary: All participants in the BeeWare community are expected to adhere to a Code of Conduct
